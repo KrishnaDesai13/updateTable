@@ -1,0 +1,13 @@
+.Tables{
+  border: 1px solid;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+  margin-left: 500px;
+}
+
+.Rows{
+  text-align: left;
+  border: 1px solid;
+}
+
